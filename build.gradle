@@ -6,7 +6,7 @@ plugins {
 
 group = 'site.metacoding'
 // 1. 버전 직접 변경
-version = '1.0'
+version = '0.0.1'
 sourceCompatibility = '21'
 
 configurations {
